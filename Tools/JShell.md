@@ -36,3 +36,5 @@ Un entorno de desarrollo es la suite de herramientas con las que contamos para d
 
 * [ Consola REPL (En Castellano)](https://www.adictosaltrabajo.com/2016/03/23/jshell-una-consola-repl-como-novedad-en-java-9/)
 * [ Diez Cosas que permite hacer JShell (RedHat - Inglés)](https://developers.redhat.com/blog/2019/04/05/10-things-developers-need-to-know-about-jshell/)
+* [Explorando JShell](https://www.baeldung.com/java-9-repl)
+* [Propósito de JShell](http://openjdk.java.net/jeps/222)
