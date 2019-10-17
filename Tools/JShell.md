@@ -6,7 +6,22 @@ Se trata de la consola interactiva (REPL) de Java (disponible a partir de *Java 
 
 ## ¿Para qué podemos usarlo?
 
-Las consolas _REPL_ (**Read-Evaluate-Print-Loop**), nos permiten probar y validar nuestro código sin necesidad de construir grandes ejemplos _main_ o clases de ejemplo (_test.java_, javac test.java ; java
+Las consolas _REPL_ (**Read-Evaluate-Print-Loop**), nos permiten probar y validar nuestro código sin necesidad de construir grandes ejemplos _main_ o clases de ejemplo. Pasos como:
+
+ 1. Crear : `vim test.java` 
+ 2. Compilar :  `javac test.java`  
+ 3. Testear : `java test`
+
+Aunque nos aportan destreza, muchas veces entorpecen la tarea que estamos haciendo, o sencillamente nos hacen perder el foco de lo que estamos haciendo.
+
+Estas consolas, que llevamos utilizando años aunque de manera inadvertida (Bash, PowerShell), las van incorporando otros lenguajes de programación:
+
+* Python (iPython,python).
+* Perl
+* JavaScript (node + Navegadores)
+* Java (JShell)
+
+Y son herramientas la mar de útiles para pequeñas tareas o sencillamente para probar cosas. 
 
 ## Entorno de Desarrollo
 
